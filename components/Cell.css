@@ -1,0 +1,9 @@
+.board__cell {
+  width: 10px;
+  height: 10px;
+  background-color: grey;
+}
+
+.board__cell--selected {
+  background-color: red;
+}
