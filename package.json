@@ -28,6 +28,7 @@
   },
   "homepage": "http://rackt.github.io/redux",
   "dependencies": {
+    "body-parser": "^1.14.1",
     "isomorphic-fetch": "^2.1.1",
     "lodash": "^3.10.1",
     "react": "^0.14.0",
